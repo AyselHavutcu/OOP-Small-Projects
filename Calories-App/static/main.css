@@ -1,0 +1,31 @@
+body {
+  background-color: black;
+  text-align:center;
+}
+h1 {
+  color: white;
+}
+p {
+  font-family: verdana;
+  color:white;
+}
+
+label{
+    color:white;
+}
+input[type='text']{
+    margin:10px 0px;
+    width:500px;
+    height:30px;
+    border-radius:5px;
+}
+
+input[type='submit']{
+    margin:20px 0px;
+    width:200px;
+    height:40px;
+    border-radius:5px;
+    color:black;
+    background-color:lightgreen;
+}
+
